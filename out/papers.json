@@ -1,0 +1,487 @@
+{
+  "generated_at": "2026-04-17T13:03:25.752704+00:00",
+  "target_date": "2026-04-17",
+  "total": 24,
+  "papers": [
+    {
+      "id": "2509.25843",
+      "title": "ASGuard: Activation-Scaling Guard to Mitigate Targeted Jailbreaking Attack",
+      "prompt": "You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.\n\n[Paper]\n- Title: ASGuard: Activation-Scaling Guard to Mitigate Targeted Jailbreaking Attack\n- arXiv ID: 2509.25843\n- Authors: Yein Park, Jungwoo Park, Jaewoo Kang\n- Hugging Face: https://huggingface.co/papers/2509.25843\n- arXiv abstract: https://arxiv.org/abs/2509.25843\n- arXiv PDF: https://arxiv.org/pdf/2509.25843\n\nKeywords: activation-scaling, asguard, guard, jailbreaking, targeted, attack, mitigate, analysis.\n\n[Abstract]\nActivation-Scaling Guard (ASGuard) mitigates brittle refusal behaviors in large language models by identifying and recalibrating specific attention heads vulnerable to tense-based jailbreaking attacks through mechanistic circuit analysis and targeted fine-tuning.\n\n[Your task]\n1. Summarize the paper in 3 bullet points (problem, method, result).\n2. Explain why this result is non-trivial in one paragraph.\n3. List 3 concrete follow-up questions a practitioner would ask.\n4. Propose one experiment, with dataset and metric, that would falsify the core claim.\n5. Extract any open-source artifacts (code, weights, datasets) the authors mention.\n\nBe concise and specific; cite the source URLs above when quoting.\n",
+      "keywords": [
+        "activation-scaling",
+        "asguard",
+        "guard",
+        "jailbreaking",
+        "targeted",
+        "attack",
+        "mitigate",
+        "analysis"
+      ],
+      "sources": {
+        "huggingface": "https://huggingface.co/papers/2509.25843",
+        "arxiv_abs": "https://arxiv.org/abs/2509.25843",
+        "arxiv_pdf": "https://arxiv.org/pdf/2509.25843"
+      }
+    },
+    {
+      "id": "2603.27844",
+      "title": "Model Capability Dominates: Inference-Time Optimization Lessons from AIMO 3",
+      "prompt": "You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.\n\n[Paper]\n- Title: Model Capability Dominates: Inference-Time Optimization Lessons from AIMO 3\n- arXiv ID: 2603.27844\n- Authors: Natapong Nitarach\n- Hugging Face: https://huggingface.co/papers/2603.27844\n- arXiv abstract: https://arxiv.org/abs/2603.27844\n- arXiv PDF: https://arxiv.org/pdf/2603.27844\n\nKeywords: capability, aimo, dominates, inference-time, lessons, optimization, reasoning, correlated.\n\n[Abstract]\nMajority voting improves mathematical reasoning but is limited by correlated errors; diverse reasoning strategies and model capability are more impactful than prompt engineering.\n\n[Your task]\n1. Summarize the paper in 3 bullet points (problem, method, result).\n2. Explain why this result is non-trivial in one paragraph.\n3. List 3 concrete follow-up questions a practitioner would ask.\n4. Propose one experiment, with dataset and metric, that would falsify the core claim.\n5. Extract any open-source artifacts (code, weights, datasets) the authors mention.\n\nBe concise and specific; cite the source URLs above when quoting.\n",
+      "keywords": [
+        "capability",
+        "aimo",
+        "dominates",
+        "inference-time",
+        "lessons",
+        "optimization",
+        "reasoning",
+        "correlated"
+      ],
+      "sources": {
+        "huggingface": "https://huggingface.co/papers/2603.27844",
+        "arxiv_abs": "https://arxiv.org/abs/2603.27844",
+        "arxiv_pdf": "https://arxiv.org/pdf/2603.27844"
+      }
+    },
+    {
+      "id": "2604.04514",
+      "title": "SuperLocalMemory V3.3: The Living Brain -- Biologically-Inspired Forgetting, Cognitive Quantization, and Multi-Channel Retrieval for Zero-LLM Agent Memory Systems",
+      "prompt": "You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.\n\n[Paper]\n- Title: SuperLocalMemory V3.3: The Living Brain -- Biologically-Inspired Forgetting, Cognitive Quantization, and Multi-Channel Retrieval for Zero-LLM Agent Memory Systems\n- arXiv ID: 2604.04514\n- Authors: Varun Pratap Bhardwaj\n- Hugging Face: https://huggingface.co/papers/2604.04514\n- arXiv abstract: https://arxiv.org/abs/2604.04514\n- arXiv PDF: https://arxiv.org/pdf/2604.04514\n\nKeywords: memory, agent, cognitive, forgetting, retrieval, zero-llm, biologically-inspired, brain.\n\n[Abstract]\nA new local-first agent memory system implements comprehensive cognitive memory processes with enhanced retrieval and forgetting mechanisms, achieving superior performance in zero-LLM settings.\n\n[Your task]\n1. Summarize the paper in 3 bullet points (problem, method, result).\n2. Explain why this result is non-trivial in one paragraph.\n3. List 3 concrete follow-up questions a practitioner would ask.\n4. Propose one experiment, with dataset and metric, that would falsify the core claim.\n5. Extract any open-source artifacts (code, weights, datasets) the authors mention.\n\nBe concise and specific; cite the source URLs above when quoting.\n",
+      "keywords": [
+        "memory",
+        "agent",
+        "cognitive",
+        "forgetting",
+        "retrieval",
+        "zero-llm",
+        "biologically-inspired",
+        "brain"
+      ],
+      "sources": {
+        "huggingface": "https://huggingface.co/papers/2604.04514",
+        "arxiv_abs": "https://arxiv.org/abs/2604.04514",
+        "arxiv_pdf": "https://arxiv.org/pdf/2604.04514"
+      }
+    },
+    {
+      "id": "2604.07466",
+      "title": "Cross-Tokenizer LLM Distillation through a Byte-Level Interface",
+      "prompt": "You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.\n\n[Paper]\n- Title: Cross-Tokenizer LLM Distillation through a Byte-Level Interface\n- arXiv ID: 2604.07466\n- Authors: Avyav Kumar Singh, Yen-Chen Wu, Alexandru Cioba, Alberto Bernacchia, Davide Buffelli\n- Hugging Face: https://huggingface.co/papers/2604.07466\n- arXiv abstract: https://arxiv.org/abs/2604.07466\n- arXiv PDF: https://arxiv.org/pdf/2604.07466\n\nKeywords: byte-level, cross-tokenizer, distillation, interface, through, achieving, byte, compared.\n\n[Abstract]\nByte-Level Distillation enables cross-tokenizer knowledge transfer by operating at the byte level, achieving competitive performance compared to complex existing methods.\n\n[Your task]\n1. Summarize the paper in 3 bullet points (problem, method, result).\n2. Explain why this result is non-trivial in one paragraph.\n3. List 3 concrete follow-up questions a practitioner would ask.\n4. Propose one experiment, with dataset and metric, that would falsify the core claim.\n5. Extract any open-source artifacts (code, weights, datasets) the authors mention.\n\nBe concise and specific; cite the source URLs above when quoting.\n",
+      "keywords": [
+        "byte-level",
+        "cross-tokenizer",
+        "distillation",
+        "interface",
+        "through",
+        "achieving",
+        "byte",
+        "compared"
+      ],
+      "sources": {
+        "huggingface": "https://huggingface.co/papers/2604.07466",
+        "arxiv_abs": "https://arxiv.org/abs/2604.07466",
+        "arxiv_pdf": "https://arxiv.org/pdf/2604.07466"
+      }
+    },
+    {
+      "id": "2604.11661",
+      "title": "Towards Autonomous Mechanistic Reasoning in Virtual Cells",
+      "prompt": "You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.\n\n[Paper]\n- Title: Towards Autonomous Mechanistic Reasoning in Virtual Cells\n- arXiv ID: 2604.11661\n- Authors: Yunhui Jang, Lu Zhu, Jake Fawkes, Alisandra Kaye Denton, Dominique Beaini, Emmanuel Noutahi\n- Hugging Face: https://huggingface.co/papers/2604.11661\n- arXiv abstract: https://arxiv.org/abs/2604.11661\n- arXiv PDF: https://arxiv.org/pdf/2604.11661\n\nKeywords: mechanistic, autonomous, cells, reasoning, towards, virtual, biological, datasets.\n\n[Abstract]\nLarge language models are enhanced for biological research through a multi-agent framework that generates and validates mechanistic explanations using structured formalism and verified datasets.\n\n[Your task]\n1. Summarize the paper in 3 bullet points (problem, method, result).\n2. Explain why this result is non-trivial in one paragraph.\n3. List 3 concrete follow-up questions a practitioner would ask.\n4. Propose one experiment, with dataset and metric, that would falsify the core claim.\n5. Extract any open-source artifacts (code, weights, datasets) the authors mention.\n\nBe concise and specific; cite the source URLs above when quoting.\n",
+      "keywords": [
+        "mechanistic",
+        "autonomous",
+        "cells",
+        "reasoning",
+        "towards",
+        "virtual",
+        "biological",
+        "datasets"
+      ],
+      "sources": {
+        "huggingface": "https://huggingface.co/papers/2604.11661",
+        "arxiv_abs": "https://arxiv.org/abs/2604.11661",
+        "arxiv_pdf": "https://arxiv.org/pdf/2604.11661"
+      }
+    },
+    {
+      "id": "2604.11707",
+      "title": "Representations Before Pixels: Semantics-Guided Hierarchical Video Prediction",
+      "prompt": "You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.\n\n[Paper]\n- Title: Representations Before Pixels: Semantics-Guided Hierarchical Video Prediction\n- arXiv ID: 2604.11707\n- Authors: Efstathios Karypidis, Spyros Gidaris, Nikos Komodakis\n- Hugging Face: https://huggingface.co/papers/2604.11707\n- arXiv abstract: https://arxiv.org/abs/2604.11707\n- arXiv PDF: https://arxiv.org/pdf/2604.11707\n\nKeywords: video, hierarchical, prediction, representations, before, pixels, semantics-guided, addressing.\n\n[Abstract]\nRe2Pix is a hierarchical video prediction framework that improves future video generation by first predicting semantic representations and then using them to guide photorealistic visual synthesis, addressing train-test mismatches through specialized conditioning strategies.\n\n[Your task]\n1. Summarize the paper in 3 bullet points (problem, method, result).\n2. Explain why this result is non-trivial in one paragraph.\n3. List 3 concrete follow-up questions a practitioner would ask.\n4. Propose one experiment, with dataset and metric, that would falsify the core claim.\n5. Extract any open-source artifacts (code, weights, datasets) the authors mention.\n\nBe concise and specific; cite the source URLs above when quoting.\n",
+      "keywords": [
+        "video",
+        "hierarchical",
+        "prediction",
+        "representations",
+        "before",
+        "pixels",
+        "semantics-guided",
+        "addressing"
+      ],
+      "sources": {
+        "huggingface": "https://huggingface.co/papers/2604.11707",
+        "arxiv_abs": "https://arxiv.org/abs/2604.11707",
+        "arxiv_pdf": "https://arxiv.org/pdf/2604.11707"
+      }
+    },
+    {
+      "id": "2604.13226",
+      "title": "KV Packet: Recomputation-Free Context-Independent KV Caching for LLMs",
+      "prompt": "You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.\n\n[Paper]\n- Title: KV Packet: Recomputation-Free Context-Independent KV Caching for LLMs\n- arXiv ID: 2604.13226\n- Authors: Chuangtao Chen, Grace Li Zhang, Xunzhao Yin, Cheng Zhuo, Bing Li, Ulf Schlichtmann\n- Hugging Face: https://huggingface.co/papers/2604.13226\n- arXiv abstract: https://arxiv.org/abs/2604.13226\n- arXiv PDF: https://arxiv.org/pdf/2604.13226\n\nKeywords: packet, caching, context-independent, llms, recomputation-free, adapters, cache, cached.\n\n[Abstract]\nKV Packet is a cache reuse framework that eliminates recomputation overhead in large language models by treating cached documents as immutable packets with trainable soft-token adapters.\n\n[Your task]\n1. Summarize the paper in 3 bullet points (problem, method, result).\n2. Explain why this result is non-trivial in one paragraph.\n3. List 3 concrete follow-up questions a practitioner would ask.\n4. Propose one experiment, with dataset and metric, that would falsify the core claim.\n5. Extract any open-source artifacts (code, weights, datasets) the authors mention.\n\nBe concise and specific; cite the source URLs above when quoting.\n",
+      "keywords": [
+        "packet",
+        "caching",
+        "context-independent",
+        "llms",
+        "recomputation-free",
+        "adapters",
+        "cache",
+        "cached"
+      ],
+      "sources": {
+        "huggingface": "https://huggingface.co/papers/2604.13226",
+        "arxiv_abs": "https://arxiv.org/abs/2604.13226",
+        "arxiv_pdf": "https://arxiv.org/pdf/2604.13226"
+      }
+    },
+    {
+      "id": "2604.13618",
+      "title": "C2: Scalable Rubric-Augmented Reward Modeling from Binary Preferences",
+      "prompt": "You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.\n\n[Paper]\n- Title: C2: Scalable Rubric-Augmented Reward Modeling from Binary Preferences\n- arXiv ID: 2604.13618\n- Authors: Akira Kawabata, Saku Sugawara\n- Hugging Face: https://huggingface.co/papers/2604.13618\n- arXiv abstract: https://arxiv.org/abs/2604.13618\n- arXiv PDF: https://arxiv.org/pdf/2604.13618\n\nKeywords: reward, binary, modeling, preferences, rubric-augmented, scalable, critical, rubric.\n\n[Abstract]\nCooperative yet Critical reward modeling (C2) enhances reward model reliability by enabling critical collaboration between a reward model and a rubric generator trained exclusively from binary preferences, achieving superior performance without requiring costly rubric annotations.\n\n[Your task]\n1. Summarize the paper in 3 bullet points (problem, method, result).\n2. Explain why this result is non-trivial in one paragraph.\n3. List 3 concrete follow-up questions a practitioner would ask.\n4. Propose one experiment, with dataset and metric, that would falsify the core claim.\n5. Extract any open-source artifacts (code, weights, datasets) the authors mention.\n\nBe concise and specific; cite the source URLs above when quoting.\n",
+      "keywords": [
+        "reward",
+        "binary",
+        "modeling",
+        "preferences",
+        "rubric-augmented",
+        "scalable",
+        "critical",
+        "rubric"
+      ],
+      "sources": {
+        "huggingface": "https://huggingface.co/papers/2604.13618",
+        "arxiv_abs": "https://arxiv.org/abs/2604.13618",
+        "arxiv_pdf": "https://arxiv.org/pdf/2604.13618"
+      }
+    },
+    {
+      "id": "2604.14062",
+      "title": "OneHOI: Unifying Human-Object Interaction Generation and Editing",
+      "prompt": "You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.\n\n[Paper]\n- Title: OneHOI: Unifying Human-Object Interaction Generation and Editing\n- arXiv ID: 2604.14062\n- Authors: Jiun Tian Hoe, Weipeng Hu, Xudong Jiang, Yap-Peng Tan, Chee Seng Chan\n- Hugging Face: https://huggingface.co/papers/2604.14062\n- arXiv abstract: https://arxiv.org/abs/2604.14062\n- arXiv PDF: https://arxiv.org/pdf/2604.14062\n\nKeywords: interaction, editing, generation, human-object, onehoi, unifying, attention, complex.\n\n[Abstract]\nA unified diffusion transformer framework for human-object interaction generation and editing that uses relational modeling and structured attention mechanisms to handle complex interaction scenarios.\n\n[Your task]\n1. Summarize the paper in 3 bullet points (problem, method, result).\n2. Explain why this result is non-trivial in one paragraph.\n3. List 3 concrete follow-up questions a practitioner would ask.\n4. Propose one experiment, with dataset and metric, that would falsify the core claim.\n5. Extract any open-source artifacts (code, weights, datasets) the authors mention.\n\nBe concise and specific; cite the source URLs above when quoting.\n",
+      "keywords": [
+        "interaction",
+        "editing",
+        "generation",
+        "human-object",
+        "onehoi",
+        "unifying",
+        "attention",
+        "complex"
+      ],
+      "sources": {
+        "huggingface": "https://huggingface.co/papers/2604.14062",
+        "arxiv_abs": "https://arxiv.org/abs/2604.14062",
+        "arxiv_pdf": "https://arxiv.org/pdf/2604.14062"
+      }
+    },
+    {
+      "id": "2604.14125",
+      "title": "HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System",
+      "prompt": "You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.\n\n[Paper]\n- Title: HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System\n- arXiv ID: 2604.14125\n- Authors: Tianshuo Yang, Guanyu Chen, Yutian Chen, Zhixuan Liang, Yitian Liu, Zanxin Chen, Chunpu Xu, Haotian Liang, Jiangmiao Pang, Yao Mu, Ping Luo\n- Hugging Face: https://huggingface.co/papers/2604.14125\n- arXiv abstract: https://arxiv.org/abs/2604.14125\n- arXiv PDF: https://arxiv.org/pdf/2604.14125\n\nKeywords: hierarchical, hivla, manipulation, embodied, system, visual-grounded-centric, action, cascaded.\n\n[Abstract]\nHiVLA presents a hierarchical vision-language-action framework that decouples semantic planning from motor control using a diffusion transformer action expert with cascaded cross-attention for improved robotic manipulation.\n\n[Your task]\n1. Summarize the paper in 3 bullet points (problem, method, result).\n2. Explain why this result is non-trivial in one paragraph.\n3. List 3 concrete follow-up questions a practitioner would ask.\n4. Propose one experiment, with dataset and metric, that would falsify the core claim.\n5. Extract any open-source artifacts (code, weights, datasets) the authors mention.\n\nBe concise and specific; cite the source URLs above when quoting.\n",
+      "keywords": [
+        "hierarchical",
+        "hivla",
+        "manipulation",
+        "embodied",
+        "system",
+        "visual-grounded-centric",
+        "action",
+        "cascaded"
+      ],
+      "sources": {
+        "huggingface": "https://huggingface.co/papers/2604.14125",
+        "arxiv_abs": "https://arxiv.org/abs/2604.14125",
+        "arxiv_pdf": "https://arxiv.org/pdf/2604.14125"
+      }
+    },
+    {
+      "id": "2604.14164",
+      "title": "How to Fine-Tune a Reasoning Model? A Teacher-Student Cooperation Framework to Synthesize Student-Consistent SFT Data",
+      "prompt": "You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.\n\n[Paper]\n- Title: How to Fine-Tune a Reasoning Model? A Teacher-Student Cooperation Framework to Synthesize Student-Consistent SFT Data\n- arXiv ID: 2604.14164\n- Authors: Zixian Huang, Kaichen Yang, Xu Huang, Feiyang Hao, Qiming Ge, Bowen Li, He Du, Kai Chen, Qipeng Guo\n- Hugging Face: https://huggingface.co/papers/2604.14164\n- arXiv abstract: https://arxiv.org/abs/2604.14164\n- arXiv PDF: https://arxiv.org/pdf/2604.14164\n\nKeywords: cooperation, framework, teacher-student, fine-tune, reasoning, student-consistent, synthesize, addresses.\n\n[Abstract]\nTeacher-student cooperation data synthesis framework addresses stylistic divergence in synthetic data for improved model fine-tuning performance.\n\n[Your task]\n1. Summarize the paper in 3 bullet points (problem, method, result).\n2. Explain why this result is non-trivial in one paragraph.\n3. List 3 concrete follow-up questions a practitioner would ask.\n4. Propose one experiment, with dataset and metric, that would falsify the core claim.\n5. Extract any open-source artifacts (code, weights, datasets) the authors mention.\n\nBe concise and specific; cite the source URLs above when quoting.\n",
+      "keywords": [
+        "cooperation",
+        "framework",
+        "teacher-student",
+        "fine-tune",
+        "reasoning",
+        "student-consistent",
+        "synthesize",
+        "addresses"
+      ],
+      "sources": {
+        "huggingface": "https://huggingface.co/papers/2604.14164",
+        "arxiv_abs": "https://arxiv.org/abs/2604.14164",
+        "arxiv_pdf": "https://arxiv.org/pdf/2604.14164"
+      }
+    },
+    {
+      "id": "2604.14228",
+      "title": "Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems",
+      "prompt": "You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.\n\n[Paper]\n- Title: Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems\n- arXiv ID: 2604.14228\n- Authors: Jiacheng Liu, Xiaohan Zhao, Xinyi Shang, Zhiqiang Shen\n- Hugging Face: https://huggingface.co/papers/2604.14228\n- arXiv abstract: https://arxiv.org/abs/2604.14228\n- arXiv PDF: https://arxiv.org/pdf/2604.14228\n\nKeywords: claude, code, design, systems, agent, dive, future, space.\n\n[Abstract]\nThe study analyzes Claude Code's architecture, identifying five motivating human values and tracing them through thirteen design principles to specific implementation choices, including a core while-loop architecture and supporting systems for safety, context management, and extensibility.\n\n[Your task]\n1. Summarize the paper in 3 bullet points (problem, method, result).\n2. Explain why this result is non-trivial in one paragraph.\n3. List 3 concrete follow-up questions a practitioner would ask.\n4. Propose one experiment, with dataset and metric, that would falsify the core claim.\n5. Extract any open-source artifacts (code, weights, datasets) the authors mention.\n\nBe concise and specific; cite the source URLs above when quoting.\n",
+      "keywords": [
+        "claude",
+        "code",
+        "design",
+        "systems",
+        "agent",
+        "dive",
+        "future",
+        "space"
+      ],
+      "sources": {
+        "huggingface": "https://huggingface.co/papers/2604.14228",
+        "arxiv_abs": "https://arxiv.org/abs/2604.14228",
+        "arxiv_pdf": "https://arxiv.org/pdf/2604.14228"
+      }
+    },
+    {
+      "id": "2604.14268",
+      "title": "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
+      "prompt": "You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.\n\n[Paper]\n- Title: HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds\n- arXiv ID: 2604.14268\n- Authors: Team HY-World, Chenjie Cao, Xuhui Zuo, Zhenwei Wang, Yisu Zhang, Junta Wu, Zhenyang Liu, Yuning Gong, Yang Liu, Bo Yuan, Chao Zhang, Coopers Li, Dongyuan Guo, Fan Yang, Haiyu Zhang, Hang Cao, Jianchen Zhu, Jiaxin Lin, Jie Xiao, Jihong Zhang\n- Hugging Face: https://huggingface.co/papers/2604.14268\n- arXiv abstract: https://arxiv.org/abs/2604.14268\n- arXiv PDF: https://arxiv.org/pdf/2604.14268\n\nKeywords: world, hy-world, multi-modal, generating, reconstructing, simulating, worlds, along.\n\n[Abstract]\nHY-World 2.0 is a multi-modal world model framework that generates high-fidelity 3D Gaussian Splatting scenes from diverse inputs using specialized modules for panorama generation, trajectory planning, world expansion, and composition, along with an enhanced rendering platform for interactive 3D exploration.\n\n[Your task]\n1. Summarize the paper in 3 bullet points (problem, method, result).\n2. Explain why this result is non-trivial in one paragraph.\n3. List 3 concrete follow-up questions a practitioner would ask.\n4. Propose one experiment, with dataset and metric, that would falsify the core claim.\n5. Extract any open-source artifacts (code, weights, datasets) the authors mention.\n\nBe concise and specific; cite the source URLs above when quoting.\n",
+      "keywords": [
+        "world",
+        "hy-world",
+        "multi-modal",
+        "generating",
+        "reconstructing",
+        "simulating",
+        "worlds",
+        "along"
+      ],
+      "sources": {
+        "huggingface": "https://huggingface.co/papers/2604.14268",
+        "arxiv_abs": "https://arxiv.org/abs/2604.14268",
+        "arxiv_pdf": "https://arxiv.org/pdf/2604.14268"
+      }
+    },
+    {
+      "id": "2604.14531",
+      "title": "TRACER: Trace-Based Adaptive Cost-Efficient Routing for LLM Classification",
+      "prompt": "You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.\n\n[Paper]\n- Title: TRACER: Trace-Based Adaptive Cost-Efficient Routing for LLM Classification\n- arXiv ID: 2604.14531\n- Authors: Adam Rida\n- Hugging Face: https://huggingface.co/papers/2604.14531\n- arXiv abstract: https://arxiv.org/abs/2604.14531\n- arXiv PDF: https://arxiv.org/pdf/2604.14531\n\nKeywords: classification, tracer, adaptive, cost-efficient, routing, trace-based, activating, agreement.\n\n[Abstract]\nTRACER is an open-source system that uses production traces to train ML surrogates for LLM classification, activating them only when agreement with the original model exceeds a specified threshold while providing interpretability into handling boundaries.\n\n[Your task]\n1. Summarize the paper in 3 bullet points (problem, method, result).\n2. Explain why this result is non-trivial in one paragraph.\n3. List 3 concrete follow-up questions a practitioner would ask.\n4. Propose one experiment, with dataset and metric, that would falsify the core claim.\n5. Extract any open-source artifacts (code, weights, datasets) the authors mention.\n\nBe concise and specific; cite the source URLs above when quoting.\n",
+      "keywords": [
+        "classification",
+        "tracer",
+        "adaptive",
+        "cost-efficient",
+        "routing",
+        "trace-based",
+        "activating",
+        "agreement"
+      ],
+      "sources": {
+        "huggingface": "https://huggingface.co/papers/2604.14531",
+        "arxiv_abs": "https://arxiv.org/abs/2604.14531",
+        "arxiv_pdf": "https://arxiv.org/pdf/2604.14531"
+      }
+    },
+    {
+      "id": "2604.14572",
+      "title": "Don't Retrieve, Navigate: Distilling Enterprise Knowledge into Navigable Agent Skills for QA and RAG",
+      "prompt": "You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.\n\n[Paper]\n- Title: Don't Retrieve, Navigate: Distilling Enterprise Knowledge into Navigable Agent Skills for QA and RAG\n- arXiv ID: 2604.14572\n- Authors: Yiqun Sun, Pengfei Wei, Lawrence B. Hsieh\n- Hugging Face: https://huggingface.co/papers/2604.14572\n- arXiv abstract: https://arxiv.org/abs/2604.14572\n- arXiv PDF: https://arxiv.org/pdf/2604.14572\n\nKeywords: navigate, agent, distilling, enterprise, knowledge, navigable, retrieve, skills.\n\n[Abstract]\nCorpus2Skill enhances retrieval-augmented generation by structuring document corpora into hierarchical skill directories that enable language model agents to navigate and reason about information organization during query processing.\n\n[Your task]\n1. Summarize the paper in 3 bullet points (problem, method, result).\n2. Explain why this result is non-trivial in one paragraph.\n3. List 3 concrete follow-up questions a practitioner would ask.\n4. Propose one experiment, with dataset and metric, that would falsify the core claim.\n5. Extract any open-source artifacts (code, weights, datasets) the authors mention.\n\nBe concise and specific; cite the source URLs above when quoting.\n",
+      "keywords": [
+        "navigate",
+        "agent",
+        "distilling",
+        "enterprise",
+        "knowledge",
+        "navigable",
+        "retrieve",
+        "skills"
+      ],
+      "sources": {
+        "huggingface": "https://huggingface.co/papers/2604.14572",
+        "arxiv_abs": "https://arxiv.org/abs/2604.14572",
+        "arxiv_pdf": "https://arxiv.org/pdf/2604.14572"
+      }
+    },
+    {
+      "id": "2604.14629",
+      "title": "Switch-KD: Visual-Switch Knowledge Distillation for Vision-Language Models",
+      "prompt": "You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.\n\n[Paper]\n- Title: Switch-KD: Visual-Switch Knowledge Distillation for Vision-Language Models\n- arXiv ID: 2604.14629\n- Authors: Haoyi Sun, Xiaoxiao Wang, Ning Mao, Qian Wang, Lifu Mu, Wen Zheng, Tao Wei, Wei Chen\n- Hugging Face: https://huggingface.co/papers/2604.14629\n- arXiv abstract: https://arxiv.org/abs/2604.14629\n- arXiv PDF: https://arxiv.org/pdf/2604.14629\n\nKeywords: knowledge, distillation, vision-language, visual-switch, switch-kd, challenges, deployment, efficiency.\n\n[Abstract]\nVision-language models face deployment challenges due to their large size, but knowledge distillation can improve efficiency while maintaining performance through a novel visual-switch framework that enhances multimodal knowledge transfer.\n\n[Your task]\n1. Summarize the paper in 3 bullet points (problem, method, result).\n2. Explain why this result is non-trivial in one paragraph.\n3. List 3 concrete follow-up questions a practitioner would ask.\n4. Propose one experiment, with dataset and metric, that would falsify the core claim.\n5. Extract any open-source artifacts (code, weights, datasets) the authors mention.\n\nBe concise and specific; cite the source URLs above when quoting.\n",
+      "keywords": [
+        "knowledge",
+        "distillation",
+        "vision-language",
+        "visual-switch",
+        "switch-kd",
+        "challenges",
+        "deployment",
+        "efficiency"
+      ],
+      "sources": {
+        "huggingface": "https://huggingface.co/papers/2604.14629",
+        "arxiv_abs": "https://arxiv.org/abs/2604.14629",
+        "arxiv_pdf": "https://arxiv.org/pdf/2604.14629"
+      }
+    },
+    {
+      "id": "2604.14683",
+      "title": "DR^{3}-Eval: Towards Realistic and Reproducible Deep Research Evaluation",
+      "prompt": "You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.\n\n[Paper]\n- Title: DR^{3}-Eval: Towards Realistic and Reproducible Deep Research Evaluation\n- arXiv ID: 2604.14683\n- Authors: Qianqian Xie, Qingheng Xiong, He Zhu, Tiantian Xia, Xueming Han, Fanyu Meng, Jiakai Wang, Zhiqi Bai, Chengkang Jiang, Zhaohui Wang, Yubin Guo, Yuqing Wen, Jiayang Mao, Zijie Zhang, Shihao Li, Yanghai Wang, Yuxiang Ren, Junlan Feng, Jiaheng Liu\n- Hugging Face: https://huggingface.co/papers/2604.14683\n- arXiv abstract: https://arxiv.org/abs/2604.14683\n- arXiv PDF: https://arxiv.org/pdf/2604.14683\n\nKeywords: deep, eval, evaluation, realistic, research, reproducible, towards, agents.\n\n[Abstract]\nDR$^{3}$-Eval is a benchmark for evaluating deep research agents on multimodal, multi-file report generation, featuring a realistic simulation of web environments and a comprehensive evaluation framework.\n\n[Your task]\n1. Summarize the paper in 3 bullet points (problem, method, result).\n2. Explain why this result is non-trivial in one paragraph.\n3. List 3 concrete follow-up questions a practitioner would ask.\n4. Propose one experiment, with dataset and metric, that would falsify the core claim.\n5. Extract any open-source artifacts (code, weights, datasets) the authors mention.\n\nBe concise and specific; cite the source URLs above when quoting.\n",
+      "keywords": [
+        "deep",
+        "eval",
+        "evaluation",
+        "realistic",
+        "research",
+        "reproducible",
+        "towards",
+        "agents"
+      ],
+      "sources": {
+        "huggingface": "https://huggingface.co/papers/2604.14683",
+        "arxiv_abs": "https://arxiv.org/abs/2604.14683",
+        "arxiv_pdf": "https://arxiv.org/pdf/2604.14683"
+      }
+    },
+    {
+      "id": "2604.14922",
+      "title": "LongAct: Harnessing Intrinsic Activation Patterns for Long-Context Reinforcement Learning",
+      "prompt": "You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.\n\n[Paper]\n- Title: LongAct: Harnessing Intrinsic Activation Patterns for Long-Context Reinforcement Learning\n- arXiv ID: 2604.14922\n- Authors: Bowen Ping, Zijun Chen, Tingfeng Hui, Qize Yu, Chenxuan Li, Junchi Yan, Baobao Chang\n- Hugging Face: https://huggingface.co/papers/2604.14922\n- arXiv abstract: https://arxiv.org/abs/2604.14922\n- arXiv PDF: https://arxiv.org/pdf/2604.14922\n\nKeywords: activation, long-context, longact, patterns, harnessing, intrinsic, learning, reinforcement.\n\n[Abstract]\nLongAct improves long-context reasoning in LLMs by implementing saliency-guided sparse updates based on high-magnitude activation patterns in query and key vectors.\n\n[Your task]\n1. Summarize the paper in 3 bullet points (problem, method, result).\n2. Explain why this result is non-trivial in one paragraph.\n3. List 3 concrete follow-up questions a practitioner would ask.\n4. Propose one experiment, with dataset and metric, that would falsify the core claim.\n5. Extract any open-source artifacts (code, weights, datasets) the authors mention.\n\nBe concise and specific; cite the source URLs above when quoting.\n",
+      "keywords": [
+        "activation",
+        "long-context",
+        "longact",
+        "patterns",
+        "harnessing",
+        "intrinsic",
+        "learning",
+        "reinforcement"
+      ],
+      "sources": {
+        "huggingface": "https://huggingface.co/papers/2604.14922",
+        "arxiv_abs": "https://arxiv.org/abs/2604.14922",
+        "arxiv_pdf": "https://arxiv.org/pdf/2604.14922"
+      }
+    },
+    {
+      "id": "2604.14967",
+      "title": "UniDoc-RL: Coarse-to-Fine Visual RAG with Hierarchical Actions and Dense Rewards",
+      "prompt": "You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.\n\n[Paper]\n- Title: UniDoc-RL: Coarse-to-Fine Visual RAG with Hierarchical Actions and Dense Rewards\n- arXiv ID: 2604.14967\n- Authors: Jun Wang, Shuo Tan, Zelong Sun, Tiancheng Gu, Yongle Zhao, Ziyong Feng, Kaicheng Yang, Cewu Lu\n- Hugging Face: https://huggingface.co/papers/2604.14967\n- arXiv abstract: https://arxiv.org/abs/2604.14967\n- arXiv PDF: https://arxiv.org/pdf/2604.14967\n\nKeywords: dense, hierarchical, unidoc-rl, visual, actions, coarse-to-fine, rewards, decision-making.\n\n[Abstract]\nUniDoc-RL introduces a reinforcement learning framework for LVLMs that jointly optimizes retrieval, reranking, visual perception, and reasoning through hierarchical decision-making and dense multi-reward supervision.\n\n[Your task]\n1. Summarize the paper in 3 bullet points (problem, method, result).\n2. Explain why this result is non-trivial in one paragraph.\n3. List 3 concrete follow-up questions a practitioner would ask.\n4. Propose one experiment, with dataset and metric, that would falsify the core claim.\n5. Extract any open-source artifacts (code, weights, datasets) the authors mention.\n\nBe concise and specific; cite the source URLs above when quoting.\n",
+      "keywords": [
+        "dense",
+        "hierarchical",
+        "unidoc-rl",
+        "visual",
+        "actions",
+        "coarse-to-fine",
+        "rewards",
+        "decision-making"
+      ],
+      "sources": {
+        "huggingface": "https://huggingface.co/papers/2604.14967",
+        "arxiv_abs": "https://arxiv.org/abs/2604.14967",
+        "arxiv_pdf": "https://arxiv.org/pdf/2604.14967"
+      }
+    },
+    {
+      "id": "2604.15231",
+      "title": "RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography",
+      "prompt": "You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.\n\n[Paper]\n- Title: RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography\n- arXiv ID: 2604.15231\n- Authors: Mélanie Roschewitz, Kenneth Styppa, Yitian Tao, Jiwoong Sohn, Jean-Benoit Delbrouck, Benjamin Gundersen, Nicolas Deperrois, Christian Bluethgen, Julia Vogt, Bjoern Menze, Farhad Nooralahzadeh, Michael Krauthammer, Michael Moor\n- Hugging Face: https://huggingface.co/papers/2604.15231\n- arXiv abstract: https://arxiv.org/abs/2604.15231\n- arXiv PDF: https://arxiv.org/pdf/2604.15231\n\nKeywords: agent, chest, radagent, tool-using, computed, interpretation, stepwise, tomography.\n\n[Abstract]\nRadAgent, a tool-using AI agent, enhances chest CT report generation through interpretable step-by-step reasoning traces that improve clinical accuracy, robustness, and faithfulness compared to existing 3D vision-language models.\n\n[Your task]\n1. Summarize the paper in 3 bullet points (problem, method, result).\n2. Explain why this result is non-trivial in one paragraph.\n3. List 3 concrete follow-up questions a practitioner would ask.\n4. Propose one experiment, with dataset and metric, that would falsify the core claim.\n5. Extract any open-source artifacts (code, weights, datasets) the authors mention.\n\nBe concise and specific; cite the source URLs above when quoting.\n",
+      "keywords": [
+        "agent",
+        "chest",
+        "radagent",
+        "tool-using",
+        "computed",
+        "interpretation",
+        "stepwise",
+        "tomography"
+      ],
+      "sources": {
+        "huggingface": "https://huggingface.co/papers/2604.15231",
+        "arxiv_abs": "https://arxiv.org/abs/2604.15231",
+        "arxiv_pdf": "https://arxiv.org/pdf/2604.15231"
+      }
+    },
+    {
+      "id": "2604.15284",
+      "title": "GlobalSplat: Efficient Feed-Forward 3D Gaussian Splatting via Global Scene Tokens",
+      "prompt": "You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.\n\n[Paper]\n- Title: GlobalSplat: Efficient Feed-Forward 3D Gaussian Splatting via Global Scene Tokens\n- arXiv ID: 2604.15284\n- Authors: Roni Itkin, Noam Issachar, Yehonatan Keypur, Anpei Chen, Sagie Benaim\n- Hugging Face: https://huggingface.co/papers/2604.15284\n- arXiv abstract: https://arxiv.org/abs/2604.15284\n- arXiv PDF: https://arxiv.org/pdf/2604.15284\n\nKeywords: gaussian, global, globalsplat, scene, splatting, efficient, feed-forward, tokens.\n\n[Abstract]\nGlobalSplat introduces a global scene representation framework that achieves compact, consistent 3D Gaussian splatting with reduced computational overhead and improved inference speed.\n\n[Your task]\n1. Summarize the paper in 3 bullet points (problem, method, result).\n2. Explain why this result is non-trivial in one paragraph.\n3. List 3 concrete follow-up questions a practitioner would ask.\n4. Propose one experiment, with dataset and metric, that would falsify the core claim.\n5. Extract any open-source artifacts (code, weights, datasets) the authors mention.\n\nBe concise and specific; cite the source URLs above when quoting.\n",
+      "keywords": [
+        "gaussian",
+        "global",
+        "globalsplat",
+        "scene",
+        "splatting",
+        "efficient",
+        "feed-forward",
+        "tokens"
+      ],
+      "sources": {
+        "huggingface": "https://huggingface.co/papers/2604.15284",
+        "arxiv_abs": "https://arxiv.org/abs/2604.15284",
+        "arxiv_pdf": "https://arxiv.org/pdf/2604.15284"
+      }
+    },
+    {
+      "id": "2604.15308",
+      "title": "RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework",
+      "prompt": "You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.\n\n[Paper]\n- Title: RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework\n- arXiv ID: 2604.15308\n- Authors: Hao Gao, Shaoyu Chen, Yifan Zhu, Yuehao Song, Wenyu Liu, Qian Zhang, Xinggang Wang\n- Hugging Face: https://huggingface.co/papers/2604.15308\n- arXiv abstract: https://arxiv.org/abs/2604.15308\n- arXiv PDF: https://arxiv.org/pdf/2604.15308\n\nKeywords: framework, generator-discriminator, learning, reinforcement, rad-2, scaling, autonomous, diffusion-based.\n\n[Abstract]\nA unified generator-discriminator framework for autonomous driving motion planning that improves stability and performance through diffusion-based trajectory generation and reinforcement learning optimization.\n\n[Your task]\n1. Summarize the paper in 3 bullet points (problem, method, result).\n2. Explain why this result is non-trivial in one paragraph.\n3. List 3 concrete follow-up questions a practitioner would ask.\n4. Propose one experiment, with dataset and metric, that would falsify the core claim.\n5. Extract any open-source artifacts (code, weights, datasets) the authors mention.\n\nBe concise and specific; cite the source URLs above when quoting.\n",
+      "keywords": [
+        "framework",
+        "generator-discriminator",
+        "learning",
+        "reinforcement",
+        "rad-2",
+        "scaling",
+        "autonomous",
+        "diffusion-based"
+      ],
+      "sources": {
+        "huggingface": "https://huggingface.co/papers/2604.15308",
+        "arxiv_abs": "https://arxiv.org/abs/2604.15308",
+        "arxiv_pdf": "https://arxiv.org/pdf/2604.15308"
+      }
+    },
+    {
+      "id": "2604.15309",
+      "title": "MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation",
+      "prompt": "You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.\n\n[Paper]\n- Title: MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation\n- arXiv ID: 2604.15309\n- Authors: Yan Li, Zezi Zeng, Yifan Yang, Yuqing Yang, Ning Liao, Weiwei Guo, Lili Qiu, Mingxi Cheng, Qi Dai, Zhendong Wang, Zhengyuan Yang, Xue Yang, Ji Li, Lijuan Wang, Chong Luo\n- Hugging Face: https://huggingface.co/papers/2604.15309\n- arXiv abstract: https://arxiv.org/abs/2604.15309\n- arXiv PDF: https://arxiv.org/pdf/2604.15309\n\nKeywords: generation, hierarchical, mm-webagent, multimodal, webpage, agent, agentic, aigc-based.\n\n[Abstract]\nMM-WebAgent is a hierarchical agentic framework that coordinates AIGC-based element generation for coherent and visually consistent webpage design through joint optimization of layout and multimodal content.\n\n[Your task]\n1. Summarize the paper in 3 bullet points (problem, method, result).\n2. Explain why this result is non-trivial in one paragraph.\n3. List 3 concrete follow-up questions a practitioner would ask.\n4. Propose one experiment, with dataset and metric, that would falsify the core claim.\n5. Extract any open-source artifacts (code, weights, datasets) the authors mention.\n\nBe concise and specific; cite the source URLs above when quoting.\n",
+      "keywords": [
+        "generation",
+        "hierarchical",
+        "mm-webagent",
+        "multimodal",
+        "webpage",
+        "agent",
+        "agentic",
+        "aigc-based"
+      ],
+      "sources": {
+        "huggingface": "https://huggingface.co/papers/2604.15309",
+        "arxiv_abs": "https://arxiv.org/abs/2604.15309",
+        "arxiv_pdf": "https://arxiv.org/pdf/2604.15309"
+      }
+    },
+    {
+      "id": "2604.15311",
+      "title": "LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories",
+      "prompt": "You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.\n\n[Paper]\n- Title: LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories\n- arXiv ID: 2604.15311\n- Authors: Zhanhao Liang, Tao Yang, Jie Wu, Chengjian Feng, Liang Zheng\n- Hugging Face: https://huggingface.co/papers/2604.15311\n- arXiv abstract: https://arxiv.org/abs/2604.15311\n- arXiv PDF: https://arxiv.org/pdf/2604.15311\n\nKeywords: flow, leapalign, matching, building, generation, post-training, step, trajectories.\n\n[Abstract]\nLeapAlign improves flow matching model fine-tuning by reducing computational costs and enabling stable gradient propagation through shortened trajectory steps while maintaining alignment with human preferences.\n\n[Your task]\n1. Summarize the paper in 3 bullet points (problem, method, result).\n2. Explain why this result is non-trivial in one paragraph.\n3. List 3 concrete follow-up questions a practitioner would ask.\n4. Propose one experiment, with dataset and metric, that would falsify the core claim.\n5. Extract any open-source artifacts (code, weights, datasets) the authors mention.\n\nBe concise and specific; cite the source URLs above when quoting.\n",
+      "keywords": [
+        "flow",
+        "leapalign",
+        "matching",
+        "building",
+        "generation",
+        "post-training",
+        "step",
+        "trajectories"
+      ],
+      "sources": {
+        "huggingface": "https://huggingface.co/papers/2604.15311",
+        "arxiv_abs": "https://arxiv.org/abs/2604.15311",
+        "arxiv_pdf": "https://arxiv.org/pdf/2604.15311"
+      }
+    }
+  ]
+}

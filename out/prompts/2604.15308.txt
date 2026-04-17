@@ -1,0 +1,23 @@
+You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.
+
+[Paper]
+- Title: RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework
+- arXiv ID: 2604.15308
+- Authors: Hao Gao, Shaoyu Chen, Yifan Zhu, Yuehao Song, Wenyu Liu, Qian Zhang, Xinggang Wang
+- Hugging Face: https://huggingface.co/papers/2604.15308
+- arXiv abstract: https://arxiv.org/abs/2604.15308
+- arXiv PDF: https://arxiv.org/pdf/2604.15308
+
+Keywords: framework, generator-discriminator, learning, reinforcement, rad-2, scaling, autonomous, diffusion-based.
+
+[Abstract]
+A unified generator-discriminator framework for autonomous driving motion planning that improves stability and performance through diffusion-based trajectory generation and reinforcement learning optimization.
+
+[Your task]
+1. Summarize the paper in 3 bullet points (problem, method, result).
+2. Explain why this result is non-trivial in one paragraph.
+3. List 3 concrete follow-up questions a practitioner would ask.
+4. Propose one experiment, with dataset and metric, that would falsify the core claim.
+5. Extract any open-source artifacts (code, weights, datasets) the authors mention.
+
+Be concise and specific; cite the source URLs above when quoting.

@@ -1,0 +1,23 @@
+You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.
+
+[Paper]
+- Title: DR^{3}-Eval: Towards Realistic and Reproducible Deep Research Evaluation
+- arXiv ID: 2604.14683
+- Authors: Qianqian Xie, Qingheng Xiong, He Zhu, Tiantian Xia, Xueming Han, Fanyu Meng, Jiakai Wang, Zhiqi Bai, Chengkang Jiang, Zhaohui Wang, Yubin Guo, Yuqing Wen, Jiayang Mao, Zijie Zhang, Shihao Li, Yanghai Wang, Yuxiang Ren, Junlan Feng, Jiaheng Liu
+- Hugging Face: https://huggingface.co/papers/2604.14683
+- arXiv abstract: https://arxiv.org/abs/2604.14683
+- arXiv PDF: https://arxiv.org/pdf/2604.14683
+
+Keywords: deep, eval, evaluation, realistic, research, reproducible, towards, agents.
+
+[Abstract]
+DR$^{3}$-Eval is a benchmark for evaluating deep research agents on multimodal, multi-file report generation, featuring a realistic simulation of web environments and a comprehensive evaluation framework.
+
+[Your task]
+1. Summarize the paper in 3 bullet points (problem, method, result).
+2. Explain why this result is non-trivial in one paragraph.
+3. List 3 concrete follow-up questions a practitioner would ask.
+4. Propose one experiment, with dataset and metric, that would falsify the core claim.
+5. Extract any open-source artifacts (code, weights, datasets) the authors mention.
+
+Be concise and specific; cite the source URLs above when quoting.

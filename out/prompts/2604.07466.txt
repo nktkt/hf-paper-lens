@@ -1,0 +1,23 @@
+You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.
+
+[Paper]
+- Title: Cross-Tokenizer LLM Distillation through a Byte-Level Interface
+- arXiv ID: 2604.07466
+- Authors: Avyav Kumar Singh, Yen-Chen Wu, Alexandru Cioba, Alberto Bernacchia, Davide Buffelli
+- Hugging Face: https://huggingface.co/papers/2604.07466
+- arXiv abstract: https://arxiv.org/abs/2604.07466
+- arXiv PDF: https://arxiv.org/pdf/2604.07466
+
+Keywords: byte-level, cross-tokenizer, distillation, interface, through, achieving, byte, compared.
+
+[Abstract]
+Byte-Level Distillation enables cross-tokenizer knowledge transfer by operating at the byte level, achieving competitive performance compared to complex existing methods.
+
+[Your task]
+1. Summarize the paper in 3 bullet points (problem, method, result).
+2. Explain why this result is non-trivial in one paragraph.
+3. List 3 concrete follow-up questions a practitioner would ask.
+4. Propose one experiment, with dataset and metric, that would falsify the core claim.
+5. Extract any open-source artifacts (code, weights, datasets) the authors mention.
+
+Be concise and specific; cite the source URLs above when quoting.

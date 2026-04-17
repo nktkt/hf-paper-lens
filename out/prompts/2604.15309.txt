@@ -1,0 +1,23 @@
+You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.
+
+[Paper]
+- Title: MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation
+- arXiv ID: 2604.15309
+- Authors: Yan Li, Zezi Zeng, Yifan Yang, Yuqing Yang, Ning Liao, Weiwei Guo, Lili Qiu, Mingxi Cheng, Qi Dai, Zhendong Wang, Zhengyuan Yang, Xue Yang, Ji Li, Lijuan Wang, Chong Luo
+- Hugging Face: https://huggingface.co/papers/2604.15309
+- arXiv abstract: https://arxiv.org/abs/2604.15309
+- arXiv PDF: https://arxiv.org/pdf/2604.15309
+
+Keywords: generation, hierarchical, mm-webagent, multimodal, webpage, agent, agentic, aigc-based.
+
+[Abstract]
+MM-WebAgent is a hierarchical agentic framework that coordinates AIGC-based element generation for coherent and visually consistent webpage design through joint optimization of layout and multimodal content.
+
+[Your task]
+1. Summarize the paper in 3 bullet points (problem, method, result).
+2. Explain why this result is non-trivial in one paragraph.
+3. List 3 concrete follow-up questions a practitioner would ask.
+4. Propose one experiment, with dataset and metric, that would falsify the core claim.
+5. Extract any open-source artifacts (code, weights, datasets) the authors mention.
+
+Be concise and specific; cite the source URLs above when quoting.

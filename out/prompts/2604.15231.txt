@@ -1,0 +1,23 @@
+You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.
+
+[Paper]
+- Title: RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography
+- arXiv ID: 2604.15231
+- Authors: Mélanie Roschewitz, Kenneth Styppa, Yitian Tao, Jiwoong Sohn, Jean-Benoit Delbrouck, Benjamin Gundersen, Nicolas Deperrois, Christian Bluethgen, Julia Vogt, Bjoern Menze, Farhad Nooralahzadeh, Michael Krauthammer, Michael Moor
+- Hugging Face: https://huggingface.co/papers/2604.15231
+- arXiv abstract: https://arxiv.org/abs/2604.15231
+- arXiv PDF: https://arxiv.org/pdf/2604.15231
+
+Keywords: agent, chest, radagent, tool-using, computed, interpretation, stepwise, tomography.
+
+[Abstract]
+RadAgent, a tool-using AI agent, enhances chest CT report generation through interpretable step-by-step reasoning traces that improve clinical accuracy, robustness, and faithfulness compared to existing 3D vision-language models.
+
+[Your task]
+1. Summarize the paper in 3 bullet points (problem, method, result).
+2. Explain why this result is non-trivial in one paragraph.
+3. List 3 concrete follow-up questions a practitioner would ask.
+4. Propose one experiment, with dataset and metric, that would falsify the core claim.
+5. Extract any open-source artifacts (code, weights, datasets) the authors mention.
+
+Be concise and specific; cite the source URLs above when quoting.

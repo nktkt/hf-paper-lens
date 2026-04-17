@@ -1,0 +1,23 @@
+You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.
+
+[Paper]
+- Title: How to Fine-Tune a Reasoning Model? A Teacher-Student Cooperation Framework to Synthesize Student-Consistent SFT Data
+- arXiv ID: 2604.14164
+- Authors: Zixian Huang, Kaichen Yang, Xu Huang, Feiyang Hao, Qiming Ge, Bowen Li, He Du, Kai Chen, Qipeng Guo
+- Hugging Face: https://huggingface.co/papers/2604.14164
+- arXiv abstract: https://arxiv.org/abs/2604.14164
+- arXiv PDF: https://arxiv.org/pdf/2604.14164
+
+Keywords: cooperation, framework, teacher-student, fine-tune, reasoning, student-consistent, synthesize, addresses.
+
+[Abstract]
+Teacher-student cooperation data synthesis framework addresses stylistic divergence in synthetic data for improved model fine-tuning performance.
+
+[Your task]
+1. Summarize the paper in 3 bullet points (problem, method, result).
+2. Explain why this result is non-trivial in one paragraph.
+3. List 3 concrete follow-up questions a practitioner would ask.
+4. Propose one experiment, with dataset and metric, that would falsify the core claim.
+5. Extract any open-source artifacts (code, weights, datasets) the authors mention.
+
+Be concise and specific; cite the source URLs above when quoting.

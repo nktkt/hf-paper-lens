@@ -1,0 +1,23 @@
+You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.
+
+[Paper]
+- Title: HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System
+- arXiv ID: 2604.14125
+- Authors: Tianshuo Yang, Guanyu Chen, Yutian Chen, Zhixuan Liang, Yitian Liu, Zanxin Chen, Chunpu Xu, Haotian Liang, Jiangmiao Pang, Yao Mu, Ping Luo
+- Hugging Face: https://huggingface.co/papers/2604.14125
+- arXiv abstract: https://arxiv.org/abs/2604.14125
+- arXiv PDF: https://arxiv.org/pdf/2604.14125
+
+Keywords: hierarchical, hivla, manipulation, embodied, system, visual-grounded-centric, action, cascaded.
+
+[Abstract]
+HiVLA presents a hierarchical vision-language-action framework that decouples semantic planning from motor control using a diffusion transformer action expert with cascaded cross-attention for improved robotic manipulation.
+
+[Your task]
+1. Summarize the paper in 3 bullet points (problem, method, result).
+2. Explain why this result is non-trivial in one paragraph.
+3. List 3 concrete follow-up questions a practitioner would ask.
+4. Propose one experiment, with dataset and metric, that would falsify the core claim.
+5. Extract any open-source artifacts (code, weights, datasets) the authors mention.
+
+Be concise and specific; cite the source URLs above when quoting.

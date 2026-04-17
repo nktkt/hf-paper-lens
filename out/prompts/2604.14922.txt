@@ -1,0 +1,23 @@
+You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.
+
+[Paper]
+- Title: LongAct: Harnessing Intrinsic Activation Patterns for Long-Context Reinforcement Learning
+- arXiv ID: 2604.14922
+- Authors: Bowen Ping, Zijun Chen, Tingfeng Hui, Qize Yu, Chenxuan Li, Junchi Yan, Baobao Chang
+- Hugging Face: https://huggingface.co/papers/2604.14922
+- arXiv abstract: https://arxiv.org/abs/2604.14922
+- arXiv PDF: https://arxiv.org/pdf/2604.14922
+
+Keywords: activation, long-context, longact, patterns, harnessing, intrinsic, learning, reinforcement.
+
+[Abstract]
+LongAct improves long-context reasoning in LLMs by implementing saliency-guided sparse updates based on high-magnitude activation patterns in query and key vectors.
+
+[Your task]
+1. Summarize the paper in 3 bullet points (problem, method, result).
+2. Explain why this result is non-trivial in one paragraph.
+3. List 3 concrete follow-up questions a practitioner would ask.
+4. Propose one experiment, with dataset and metric, that would falsify the core claim.
+5. Extract any open-source artifacts (code, weights, datasets) the authors mention.
+
+Be concise and specific; cite the source URLs above when quoting.

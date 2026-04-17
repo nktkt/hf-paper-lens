@@ -1,0 +1,23 @@
+You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.
+
+[Paper]
+- Title: ASGuard: Activation-Scaling Guard to Mitigate Targeted Jailbreaking Attack
+- arXiv ID: 2509.25843
+- Authors: Yein Park, Jungwoo Park, Jaewoo Kang
+- Hugging Face: https://huggingface.co/papers/2509.25843
+- arXiv abstract: https://arxiv.org/abs/2509.25843
+- arXiv PDF: https://arxiv.org/pdf/2509.25843
+
+Keywords: activation-scaling, asguard, guard, jailbreaking, targeted, attack, mitigate, analysis.
+
+[Abstract]
+Activation-Scaling Guard (ASGuard) mitigates brittle refusal behaviors in large language models by identifying and recalibrating specific attention heads vulnerable to tense-based jailbreaking attacks through mechanistic circuit analysis and targeted fine-tuning.
+
+[Your task]
+1. Summarize the paper in 3 bullet points (problem, method, result).
+2. Explain why this result is non-trivial in one paragraph.
+3. List 3 concrete follow-up questions a practitioner would ask.
+4. Propose one experiment, with dataset and metric, that would falsify the core claim.
+5. Extract any open-source artifacts (code, weights, datasets) the authors mention.
+
+Be concise and specific; cite the source URLs above when quoting.

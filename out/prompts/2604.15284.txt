@@ -1,0 +1,23 @@
+You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.
+
+[Paper]
+- Title: GlobalSplat: Efficient Feed-Forward 3D Gaussian Splatting via Global Scene Tokens
+- arXiv ID: 2604.15284
+- Authors: Roni Itkin, Noam Issachar, Yehonatan Keypur, Anpei Chen, Sagie Benaim
+- Hugging Face: https://huggingface.co/papers/2604.15284
+- arXiv abstract: https://arxiv.org/abs/2604.15284
+- arXiv PDF: https://arxiv.org/pdf/2604.15284
+
+Keywords: gaussian, global, globalsplat, scene, splatting, efficient, feed-forward, tokens.
+
+[Abstract]
+GlobalSplat introduces a global scene representation framework that achieves compact, consistent 3D Gaussian splatting with reduced computational overhead and improved inference speed.
+
+[Your task]
+1. Summarize the paper in 3 bullet points (problem, method, result).
+2. Explain why this result is non-trivial in one paragraph.
+3. List 3 concrete follow-up questions a practitioner would ask.
+4. Propose one experiment, with dataset and metric, that would falsify the core claim.
+5. Extract any open-source artifacts (code, weights, datasets) the authors mention.
+
+Be concise and specific; cite the source URLs above when quoting.

@@ -1,0 +1,23 @@
+You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.
+
+[Paper]
+- Title: C2: Scalable Rubric-Augmented Reward Modeling from Binary Preferences
+- arXiv ID: 2604.13618
+- Authors: Akira Kawabata, Saku Sugawara
+- Hugging Face: https://huggingface.co/papers/2604.13618
+- arXiv abstract: https://arxiv.org/abs/2604.13618
+- arXiv PDF: https://arxiv.org/pdf/2604.13618
+
+Keywords: reward, binary, modeling, preferences, rubric-augmented, scalable, critical, rubric.
+
+[Abstract]
+Cooperative yet Critical reward modeling (C2) enhances reward model reliability by enabling critical collaboration between a reward model and a rubric generator trained exclusively from binary preferences, achieving superior performance without requiring costly rubric annotations.
+
+[Your task]
+1. Summarize the paper in 3 bullet points (problem, method, result).
+2. Explain why this result is non-trivial in one paragraph.
+3. List 3 concrete follow-up questions a practitioner would ask.
+4. Propose one experiment, with dataset and metric, that would falsify the core claim.
+5. Extract any open-source artifacts (code, weights, datasets) the authors mention.
+
+Be concise and specific; cite the source URLs above when quoting.

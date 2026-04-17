@@ -1,0 +1,23 @@
+You are an AI research assistant. Read the paper below and help the user understand, critique, and apply its ideas.
+
+[Paper]
+- Title: LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories
+- arXiv ID: 2604.15311
+- Authors: Zhanhao Liang, Tao Yang, Jie Wu, Chengjian Feng, Liang Zheng
+- Hugging Face: https://huggingface.co/papers/2604.15311
+- arXiv abstract: https://arxiv.org/abs/2604.15311
+- arXiv PDF: https://arxiv.org/pdf/2604.15311
+
+Keywords: flow, leapalign, matching, building, generation, post-training, step, trajectories.
+
+[Abstract]
+LeapAlign improves flow matching model fine-tuning by reducing computational costs and enabling stable gradient propagation through shortened trajectory steps while maintaining alignment with human preferences.
+
+[Your task]
+1. Summarize the paper in 3 bullet points (problem, method, result).
+2. Explain why this result is non-trivial in one paragraph.
+3. List 3 concrete follow-up questions a practitioner would ask.
+4. Propose one experiment, with dataset and metric, that would falsify the core claim.
+5. Extract any open-source artifacts (code, weights, datasets) the authors mention.
+
+Be concise and specific; cite the source URLs above when quoting.
